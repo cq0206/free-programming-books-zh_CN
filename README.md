@@ -11,7 +11,7 @@
 
 欢迎订阅我的微信公众帐号，只推送原创文字。欢迎扫描二维码订阅：
 
-![justjavac微信公众帐号](http://justjavac.com/assets/images/weixin-justjavac.jpg)
+![justjavac微信公众帐号](https://img-blog.csdnimg.cn/20190110141850361.jpg)
 
 ## 参与交流
 
